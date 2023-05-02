@@ -1,0 +1,291 @@
+<!--
+  Added 32 recipes! Please copy them into "config/enderio/AlloySmelterRecipes_User.xml".
+-->
+    <recipe name="Singularity Transformation 1" energyCost="10000" >
+      <input>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="0" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="singularityMikhail" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 2" energyCost="10000" >
+      <input>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="1" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="universalsingularities" itemName="universal.general.singularity" itemMeta="0" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 3" energyCost="10000" >
+      <input>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="2" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="singularityVanady" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 4" energyCost="10000" >
+      <input>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="3" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="universalsingularities" itemName="universal.general.singularity" itemMeta="13" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 5" energyCost="10000" >
+      <input>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="4" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="universalsingularities" itemName="universal.tinkersConstruct.singularity" itemMeta="3" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 6" energyCost="10000" >
+      <input>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="5" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="universalsingularities" itemName="universal.general.singularity" itemMeta="6" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 7" energyCost="10000" >
+      <input>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="6" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="thermsingul" itemName="Thermal Singularity" itemMeta="0" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 8" energyCost="10000" >
+      <input>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="7" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="universalsingularities" itemName="universal.general.singularity" itemMeta="12" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 9" energyCost="10000" >
+      <input>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="8" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="singularityChromium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 10" energyCost="10000" >
+      <input>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="9" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="singularitySpinel" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 11" energyCost="10000" >
+      <input>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="10" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="universalsingularities" itemName="universal.general.singularity" itemMeta="15" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 12" energyCost="10000" >
+      <input>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="11" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="singularityManganese" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 13" energyCost="10000" >
+      <input>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="12" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="universalsingularities" itemName="universal.general.singularity" itemMeta="5" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 14" energyCost="10000" >
+      <input>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="14" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="universalsingularities" itemName="universal.general.singularity" itemMeta="4" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 15" energyCost="10000" >
+      <input>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="15" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="singularityIridium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 16" energyCost="10000" >
+      <input>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="16" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="singularityGermanium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 17" energyCost="10000" >
+      <input>
+        <itemStack oreDictionary="singularityMikhail" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="0" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 18" energyCost="10000" >
+      <input>
+        <itemStack modID="universalsingularities" itemName="universal.general.singularity" itemMeta="0" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="1" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 19" energyCost="10000" >
+      <input>
+        <itemStack oreDictionary="singularityVanady" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="2" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 20" energyCost="10000" >
+      <input>
+        <itemStack modID="universalsingularities" itemName="universal.general.singularity" itemMeta="13" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="3" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 21" energyCost="10000" >
+      <input>
+        <itemStack modID="universalsingularities" itemName="universal.tinkersConstruct.singularity" itemMeta="3" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="4" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 22" energyCost="10000" >
+      <input>
+        <itemStack modID="universalsingularities" itemName="universal.general.singularity" itemMeta="6" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="5" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 23" energyCost="10000" >
+      <input>
+        <itemStack modID="thermsingul" itemName="Thermal Singularity" itemMeta="0" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="6" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 24" energyCost="10000" >
+      <input>
+        <itemStack modID="universalsingularities" itemName="universal.general.singularity" itemMeta="12" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="7" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 25" energyCost="10000" >
+      <input>
+        <itemStack oreDictionary="singularityChromium" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="8" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 26" energyCost="10000" >
+      <input>
+        <itemStack oreDictionary="singularitySpinel" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="9" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 27" energyCost="10000" >
+      <input>
+        <itemStack modID="universalsingularities" itemName="universal.general.singularity" itemMeta="15" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="10" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 28" energyCost="10000" >
+      <input>
+        <itemStack oreDictionary="singularityManganese" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="11" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 29" energyCost="10000" >
+      <input>
+        <itemStack modID="universalsingularities" itemName="universal.general.singularity" itemMeta="5" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="12" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 30" energyCost="10000" >
+      <input>
+        <itemStack modID="universalsingularities" itemName="universal.general.singularity" itemMeta="4" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="14" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 31" energyCost="10000" >
+      <input>
+        <itemStack oreDictionary="singularityIridium" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="15" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Singularity Transformation 32" energyCost="10000" >
+      <input>
+        <itemStack oreDictionary="singularityGermanium" number="1" />
+        <itemStack modID="Thaumcraft" itemName="FocusTrade" itemMeta="0" number="1" />
+      </input>
+      <output>
+        <itemStack modID="industrialupgrade" itemName="avaritia_iu_singularity" itemMeta="16" number="1" exp="0.5" />
+      </output>
+    </recipe>

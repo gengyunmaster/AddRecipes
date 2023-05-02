@@ -1,0 +1,1938 @@
+<!--
+  Added 215 recipes! Please copy them into "config/enderio/AlloySmelterRecipes_User.xml".
+-->
+    <recipe name="PhasedIron Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPhasedIron" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPhasedIron" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Coltan Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotColtan" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockColtan" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Thorium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotThorium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockThorium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Enderium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotEnderium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockEnderium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Spinel Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotSpinel" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockSpinel" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Steel Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotSteel" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockSteel" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Yellorium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotYellorium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockYellorium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Polonium210 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPolonium210" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPolonium210" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Mingrade Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotMingrade" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockMingrade" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Antimony Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAntimony" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAntimony" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Prometheum Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPrometheum" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPrometheum" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Carbide Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotCarbide" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockCarbide" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Schraranium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotSchraranium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockSchraranium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Orichalcum Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotOrichalcum" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockOrichalcum" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Europium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotEuropium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockEuropium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Starmetal Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotStarmetal" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockStarmetal" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="EnergeticAlloy Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotEnergeticAlloy" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockEnergeticAlloy" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Tritanium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotTritanium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockTritanium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="UltimateAlloy Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotUltimateAlloy" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockUltimateAlloy" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Eximite Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotEximite" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockEximite" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Rubidium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotRubidium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockRubidium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Silver Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotSilver" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockSilver" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Indium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotIndium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockIndium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Polymer Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPolymer" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPolymer" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Blutonium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotBlutonium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockBlutonium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="WhitePhosphorus Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotWhitePhosphorus" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockWhitePhosphorus" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Duralumin Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotDuralumin" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockDuralumin" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Atlarus Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAtlarus" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAtlarus" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="ShadowSteel Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotShadowSteel" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockShadowSteel" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Unobtainium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotUnobtainium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockUnobtainium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="ShadowIron Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotShadowIron" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockShadowIron" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Vanadium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotVanadium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockVanadium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Silicone Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotSilicone" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockSilicone" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="AdvancedAlloy Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAdvancedAlloy" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAdvancedAlloy" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Strontium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotStrontium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockStrontium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Mithril Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotMithril" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockMithril" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Rubracium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotRubracium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockRubracium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Sanguinite Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotSanguinite" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockSanguinite" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Solinium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotSolinium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockSolinium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Potassium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPotassium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPotassium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Desichalkos Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotDesichalkos" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockDesichalkos" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="MagnetizedTungsten Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotMagnetizedTungsten" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockMagnetizedTungsten" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Rubber Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotRubber" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockRubber" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Obsidian Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotObsidian" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockObsidian" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Zirconium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotZirconium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockZirconium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Dineutronium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotDineutronium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockDineutronium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Bronze Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotBronze" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockBronze" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Hafnium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotHafnium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockHafnium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="AnyPlastic Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAnyPlastic" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAnyPlastic" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Vyroxeres Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotVyroxeres" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockVyroxeres" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="DuraSteel Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotDuraSteel" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockDuraSteel" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="CrystalMatrix Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotCrystalMatrix" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockCrystalMatrix" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="PhasedGold Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPhasedGold" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPhasedGold" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Graphite Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotGraphite" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockGraphite" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Lithium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotLithium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockLithium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Haderoth Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotHaderoth" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockHaderoth" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="U233 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotU233" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockU233" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="TitaniumIridium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotTitaniumIridium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockTitaniumIridium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Kalendrite Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotKalendrite" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockKalendrite" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Quicksilver Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotQuicksilver" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockQuicksilver" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Americium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAmericium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAmericium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="CMBSteel Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotCMBSteel" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockCMBSteel" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Nickel Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotNickel" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockNickel" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Vulcanite Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotVulcanite" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockVulcanite" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Barium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotBarium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockBarium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Midasium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotMidasium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockMidasium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Sodium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotSodium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockSodium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Pu238 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPu238" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPu238" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Actinium227 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotActinium227" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockActinium227" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Rutile Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotRutile" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockRutile" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Protactinium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotProtactinium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockProtactinium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Uranium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotUranium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockUranium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Boron Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotBoron" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockBoron" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Curium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotCurium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockCurium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Cerium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotCerium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockCerium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Verticium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotVerticium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockVerticium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Calcium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotCalcium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockCalcium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Caravky Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotCaravky" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockCaravky" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="PulsatingIron Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPulsatingIron" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPulsatingIron" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Bakelite Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotBakelite" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockBakelite" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Cobalt Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotCobalt" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockCobalt" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Plutonium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPlutonium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPlutonium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Lemurite Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotLemurite" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockLemurite" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Redbrass Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotRedbrass" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockRedbrass" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Actinium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotActinium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockActinium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Hepatizon Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotHepatizon" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockHepatizon" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Ac227 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAc227" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAc227" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Plutonium238 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPlutonium238" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPlutonium238" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="AstralSilver Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAstralSilver" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAstralSilver" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="AnyBismoid Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAnyBismoid" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAnyBismoid" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Brass Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotBrass" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockBrass" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Vanady Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotVanady" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockVanady" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Electrum Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotElectrum" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockElectrum" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Celenegil Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotCelenegil" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockCelenegil" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="DamascusSteel Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotDamascusSteel" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockDamascusSteel" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="FzDarkIron Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotFzDarkIron" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockFzDarkIron" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Asbestos Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAsbestos" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAsbestos" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Gold Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotGold" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockGold" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Schrabidate Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotSchrabidate" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockSchrabidate" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Iron Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotIron" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockIron" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Infuscolium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotInfuscolium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockInfuscolium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Fiberglass Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotFiberglass" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockFiberglass" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Ra226 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotRa226" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockRa226" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Inolashite Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotInolashite" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockInolashite" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Unstable Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotUnstable" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockUnstable" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Bismuth Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotBismuth" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockBismuth" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="DraconiumAwakened Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotDraconiumAwakened" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockDraconiumAwakened" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="ElectricalSteel Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotElectricalSteel" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockElectricalSteel" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Signalum Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotSignalum" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockSignalum" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="CosmicNeutronium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotCosmicNeutronium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockCosmicNeutronium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Nichrome Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotNichrome" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockNichrome" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="MeatRaw Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotMeatRaw" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockMeatRaw" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Plutonium239 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPlutonium239" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPlutonium239" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Praseodymium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPraseodymium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPraseodymium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Neptunium237 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotNeptunium237" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockNeptunium237" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Schrabidium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotSchrabidium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockSchrabidium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Iridium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotIridium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockIridium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="ElnTungsten Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotElnTungsten" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockElnTungsten" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Copper Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotCopper" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockCopper" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Clayium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotClayium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockClayium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Meutoite Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotMeutoite" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockMeutoite" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="BlackSteel Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotBlackSteel" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockBlackSteel" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Promethium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPromethium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPromethium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Titanium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotTitanium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockTitanium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Zinc Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotZinc" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockZinc" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Pu239 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPu239" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPu239" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="WorkersAlloy Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotWorkersAlloy" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockWorkersAlloy" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Tungsten Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotTungsten" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockTungsten" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Silicon Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotSilicon" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockSilicon" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Mikhail Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotMikhail" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockMikhail" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Vitalium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotVitalium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockVitalium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="RefinedObsidian Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotRefinedObsidian" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockRefinedObsidian" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Palladium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPalladium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPalladium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="RefinedGlowstone Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotRefinedGlowstone" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockRefinedGlowstone" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Platinum Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPlatinum" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPlatinum" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Meat Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotMeat" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockMeat" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="DeepIron Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotDeepIron" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockDeepIron" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Plutonium240 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPlutonium240" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPlutonium240" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Radium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotRadium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockRadium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Tantalum Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotTantalum" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockTantalum" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Chromium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotChromium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockChromium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Pu240 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPu240" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPu240" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Thauminite Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotThauminite" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockThauminite" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Carmot Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotCarmot" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockCarmot" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Tin Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotTin" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockTin" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="ClaySteel Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotClaySteel" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockClaySteel" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Daffergon Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotDaffergon" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockDaffergon" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Polonium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPolonium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPolonium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Aluminium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAluminium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAluminium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Adamantine Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAdamantine" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAdamantine" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Ferromanganese Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotFerromanganese" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockFerromanganese" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="U238 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotU238" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockU238" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="U235 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotU235" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockU235" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Tartarite Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotTartarite" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockTartarite" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Cyanite Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotCyanite" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockCyanite" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Draconium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotDraconium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockDraconium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Molybdenum Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotMolybdenum" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockMolybdenum" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Chrome Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotChrome" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockChrome" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Oureclase Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotOureclase" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockOureclase" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="PlutoniumRG Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPlutoniumRG" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPlutoniumRG" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Po210 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotPo210" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockPo210" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Lead Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotLead" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockLead" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Niobium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotNiobium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockNiobium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Euphemium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotEuphemium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockEuphemium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Lumium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotLumium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockLumium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Aluminum Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAluminum" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAluminum" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Uranium238 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotUranium238" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockUranium238" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Samarium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotSamarium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockSamarium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Ceruclase Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotCeruclase" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockCeruclase" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Ludicrite Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotLudicrite" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockLudicrite" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Soularium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotSoularium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockSoularium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Infinity Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotInfinity" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockInfinity" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Osmium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotOsmium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockOsmium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Invar Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotInvar" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockInvar" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Neptunium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotNeptunium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockNeptunium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Amordrine Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAmordrine" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAmordrine" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Magnesium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotMagnesium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockMagnesium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Angmallen Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAngmallen" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAngmallen" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="ConductiveIron Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotConductiveIron" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockConductiveIron" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Thorium232 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotThorium232" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockThorium232" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Np237 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotNp237" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockNp237" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="AZ91D Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAZ91D" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAZ91D" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Alumel Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAlumel" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAlumel" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Cadmium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotCadmium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockCadmium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Ignatius Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotIgnatius" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockIgnatius" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Rhenium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotRhenium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockRhenium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Francium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotFrancium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockFrancium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Lanthanum Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotLanthanum" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockLanthanum" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Uranium235 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotUranium235" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockUranium235" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Muntsa Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotMuntsa" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockMuntsa" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Constantan Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotConstantan" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockConstantan" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="ImpureSilicon Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotImpureSilicon" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockImpureSilicon" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="TitaniumAluminide Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotTitaniumAluminide" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockTitaniumAluminide" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Cupronickel Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotCupronickel" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockCupronickel" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Australium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAustralium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAustralium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="VibrantAlloy Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotVibrantAlloy" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockVibrantAlloy" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Caesium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotCaesium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockCaesium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Germanium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotGermanium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockGermanium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Alduorite Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAlduorite" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAlduorite" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Neodymium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotNeodymium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockNeodymium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Aluminumbronze Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAluminumbronze" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAluminumbronze" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="ZK60A Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotZK60A" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockZK60A" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="IronCompressed Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotIronCompressed" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockIronCompressed" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Reiium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotReiium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockReiium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="RedstoneAlloy Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotRedstoneAlloy" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockRedstoneAlloy" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Alcled Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotAlcled" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockAlcled" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Uranium233 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotUranium233" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockUranium233" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Radium226 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotRadium226" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockRadium226" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Void Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotVoid" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockVoid" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Th232 Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotTh232" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockTh232" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Beryllium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotBeryllium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockBeryllium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Weidanium Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotWeidanium" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockWeidanium" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Manganese Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotManganese" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockManganese" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="DarkSteel Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotDarkSteel" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockDarkSteel" number="1" exp="0.5" />
+      </output>
+    </recipe>
+    <recipe name="Vanadoalumite Block" energyCost="1000" >
+      <input>
+        <itemStack oreDictionary="ingotVanadoalumite" number="9" />
+        <itemStack oreDictionary="foodBlockKayakumeshi" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="blockVanadoalumite" number="1" exp="0.5" />
+      </output>
+    </recipe>
