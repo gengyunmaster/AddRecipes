@@ -11,7 +11,7 @@ There are two Python programs to Add recipes. One, automatically generate recipe
 - Use [NEI Integration](https://www.curseforge.com/minecraft/mc-mods/nei-integration) mod to dump `oredict.csv` for your modpack;
 - This program imposes Kayakumeshi (Variety Mixed Rice) from [Apple Milk Tea](https://www.curseforge.com/minecraft/mc-mods/applemilktea2) as an additional input in the recipe, change it if you want;
 - Run `addblockrecipes.py` with Python and input the entire path of `oredict.csv`;
->`python addblockrecipes.py
+  > python addblockrecipes.py
 - Copy contents in the generated file `blockrecipesoutput.xml` into `config/enderio/AlloySmelterRecipes_User.xml`.
 
 ### Add recipes for singularities with recipe conflicts
