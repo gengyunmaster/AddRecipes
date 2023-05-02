@@ -13,7 +13,7 @@ There are two Python programs to Add recipes. One, automatically generate recipe
 - Run `addblockrecipes.py` with Python and input the entire path of `oredict.csv`;
 >`python addblockrecipes.py
 - Copy contents in the generated file `blockrecipesoutput.xml` into `config/enderio/AlloySmelterRecipes_User.xml`.
-- 
+
 ### Add recipes for singularities with recipe conflicts
 - Modify correspondences of such singularities in the singularities dictionary in `addsingularityrecipes.py`;
 - Run `addsingularityrecipes.py` with Python;
